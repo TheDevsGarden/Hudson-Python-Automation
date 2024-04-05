@@ -1,8 +1,6 @@
-# Ilya Belyaev Submisison
-
-> An awesome project.
-
 # Stock Data Analysis and Reporting Automation
+
+. Ilya Belyaev submission
 
 ## Features
 
