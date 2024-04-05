@@ -23,8 +23,6 @@
 - **Save Data to CSV Files:**
   It saves the "top_performers" and "avg_pct_change" DataFrames to CSV files in the `data` subdirectory.
 
-#
-
 ## Requirements
 
 - Python 3.x
@@ -42,7 +40,6 @@ The script will perform the stock data analysis, generate the reports, store the
 
 ## Output
 
-- **top_performers_report.csv:** A CSV file containing the top-performing stocks for each day, including the date, stock symbol, and absolute percentage change.
 - **top_performers.csv:** A CSV file containing the "top_performers" DataFrame, which includes the date, stock symbol, and absolute percentage change.
 - **avg_pct_change.csv:** A CSV file containing the "avg_pct_change" DataFrame, which includes the stock symbol and the average percentage change.
 
