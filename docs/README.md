@@ -47,4 +47,4 @@ The script will perform the stock data analysis, generate the reports, store the
 
 - The "Top Performers Report"
 - The "Average Percentage Change per Stock"
-- The count of the number of days each stock was the top performer
+- The SQL count of the number of days each stock was the top performer
